@@ -5,9 +5,16 @@ The goal of this project is to use the dataset from LendingClub, a peer-to-peer 
 
 We will use several machine learning models to balance the data and then evaluate the performance of the models based on a the accuracy score and classification report. 
 
+## Results
+
 * Random Oversampling
 * SMOTE
 * Cluster Centroid Undersampling
 * SMOTTEEN
 * Balanced Random Forest Classifier
 * Easy Ensemble Classifier
+
+## Summary
+
+* Summary
+* Recommendation
