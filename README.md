@@ -8,7 +8,10 @@ We will use several machine learning models to balance the data and then evaluat
 ## Results
 
 * Random Oversampling
+![ROS Output](https://user-images.githubusercontent.com/96552268/170891053-b070dc05-dc63-4704-9d3f-b805b5c69d41.png)
+
 * SMOTE
+
 * Cluster Centroid Undersampling
 * SMOTTEEN
 * Balanced Random Forest Classifier
