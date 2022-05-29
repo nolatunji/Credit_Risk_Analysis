@@ -50,5 +50,5 @@ The Easy Ensemble Classifier model produced an accuracy score of 92%. The model 
 
 ## Summary
 
-* Summary
-* Recommendation
+* Summary / Recommendation
+Using the various sampling models was beneficial to the project as it allowed us to see which method would perform best with the given dataset. After reviewing the outcomes the model that would be recommended would be the Easy Ensemble Classifier. This model is selected because it produced the highest outcomes in terms of predicting high risk loans. The Easy Ensemble clasifier produced an accuracy score of 92% which was higher than the other models we used on the dataset. Additionally this model produced an overal recall score of 94%, and specifically a recall score of 91% for high risk loans.  This indicates that high risk loans have a very high probability of being identified by the model, especially when compared to the other sampling methods. 
